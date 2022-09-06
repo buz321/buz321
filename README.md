@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=buz321%20)
 ![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
 
-<img alt="이미지명" src =
-"![tableau](https://user-images.githubusercontent.com/107760647/188754057-059de05a-f6fd-4b12-876d-7501a2762fa2.svg)"
-"![mysql](https://user-images.githubusercontent.com/107760647/188754059-df05c749-7c7d-4dfd-992e-2c82e08e1ae2.svg)"
-"![r](https://user-images.githubusercontent.com/107760647/188754061-24ded263-6afd-4536-8975-5c28cb5658b8.svg)"
+<img alt="tableau" src =
+"![tableau](https://user-images.githubusercontent.com/107760647/188754057-059de05a-f6fd-4b12-876d-7501a2762fa2.svg)" <img alt="mysql" src= 
+"![mysql](https://user-images.githubusercontent.com/107760647/188754059-df05c749-7c7d-4dfd-992e-2c82e08e1ae2.svg)" <img alt="r" src=
+"![r](https://user-images.githubusercontent.com/107760647/188754061-24ded263-6afd-4536-8975-5c28cb5658b8.svg)" <img alt="python" src=
 "![python](https://user-images.githubusercontent.com/107760647/188754065-281f65e6-e133-416b-90f9-e6e57eca668c.svg)"/>
 
 <!--
