@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=buz321%20)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=100)
 ![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
+
+<img alt="이미지명" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/>
 
 <!--
 **buz321/buz321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
