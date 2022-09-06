@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=buz321%20)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=buz321%50)
 ![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
 
 <!--
