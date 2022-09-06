@@ -1,8 +1,8 @@
 ### 🌱Data Analyst🌱
     
-    Hi there! 
-    I analyse data using different tools.  
-    I am currently working on different projects.
+    ✨ Hi there! 
+    ⚡ I analyse data using different tools.  
+    🤔 I am currently working on different projects.
 <br/>
 
 ## 💻 Analtical Tools 💻
