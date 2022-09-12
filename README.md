@@ -1,6 +1,6 @@
 ### 🌱Data Analyst🌱
     
-    ✨ Hi there! 
+    ✨ Hi, there! 
     ⚡ I analyse data using different tools.  
     🤔 I am currently working on different projects.
 <br/>
