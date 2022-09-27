@@ -7,7 +7,7 @@
 
 ## 💻 Analtical Tools 💻
     
-Tools I can use <br/> 
+Tools I can use!! <br/> 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="r" src ="https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
