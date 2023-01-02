@@ -18,6 +18,9 @@ Tools I can use!! <br/>
 </p>   
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buz321)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
 
 
