@@ -14,14 +14,18 @@ Tools I can use!! <br/>
 <img alt="r" src ="https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="tableau" src ="https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>    
+
 </p>   
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buz321)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buz321&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    
 
 
 ![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
+
 
 
 
