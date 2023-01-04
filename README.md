@@ -26,6 +26,9 @@ Tools I can use!!
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buz321&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
+![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/107760647/210660314-e2d29321-0667-4fae-8355-7fc4df31384a.png)
+![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/107760647/210660321-880ab445-9cf6-46f3-864e-1942bf536d29.png)
+
 
 
 ![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
