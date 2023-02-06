@@ -1,4 +1,4 @@
-### 🌱Data Analyst/Modelling Analyst🌱
+### 🌱Modelling Analyst🌱
     
     ✨ Hi, there! 
     ⚡ I analyse data using different tools.  
