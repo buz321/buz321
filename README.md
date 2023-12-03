@@ -30,6 +30,11 @@ Tools I can use!!
     
 ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/107760647/210660314-e2d29321-0667-4fae-8355-7fc4df31384a.png)
 ![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/107760647/210660321-880ab445-9cf6-46f3-864e-1942bf536d29.png)
+![sas-certified-specialist-base-programming-using-sas-9-4 (6)](https://github.com/buz321/buz321/assets/107760647/473721a3-19e1-470a-994b-2d23dc7ab236)
+
+
+
+
 
 
 
