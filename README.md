@@ -19,8 +19,6 @@ Tools I can use!!
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 <img alt="aws Lambda" src ="https://img.shields.io/badge/aws Lambda-FF9900.svg?&style=for-the-badge&logo=aws Lambda&logoColor=white"/>
 <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
-<img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
-<img alt="swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
 <img alt="apachespark" src ="https://img.shields.io/badge/apachespark-E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white"/>
 <P>
 
@@ -31,23 +29,6 @@ Tools I can use!!
 ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/107760647/210660314-e2d29321-0667-4fae-8355-7fc4df31384a.png)
 ![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/107760647/210660321-880ab445-9cf6-46f3-864e-1942bf536d29.png)
 ![sas-certified-specialist-base-programming-using-sas-9-4 (6)](https://github.com/buz321/buz321/assets/107760647/473721a3-19e1-470a-994b-2d23dc7ab236)
-
-
-
-
-
-
-
-![pngwing com](https://user-images.githubusercontent.com/107760647/188753630-14d22da8-4519-47fc-822f-e097f2f1ec74.png)
-
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/buz321"
-  width="600"
-  height="300"
-/>
-</a>
 
 <!--
 **buz321/buz321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
