@@ -1,4 +1,4 @@
-### 🌱Modelling Analyst🌱
+### 🌱Risk Analyst🌱
     
     ✨ Hi, there! 
     ⚡ I analyse data using different tools.  
