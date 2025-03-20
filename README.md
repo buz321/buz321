@@ -19,7 +19,6 @@ Tools I can use!!
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 <img alt="aws Lambda" src ="https://img.shields.io/badge/aws Lambda-FF9900.svg?&style=for-the-badge&logo=aws Lambda&logoColor=white"/>
 <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
-<img alt="apachespark" src ="https://img.shields.io/badge/apachespark-E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white"/>
 <P>
 
 
