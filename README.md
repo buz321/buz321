@@ -15,7 +15,7 @@ Tools I can use!!
 <img alt="r" src ="https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/> 
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="tableau" src ="https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
-<img alt="amazon aws" src ="https://img.shields.io/badge/amazon AWS-232F3E.svg?&style=for-the-badge&logo=amazon aws&logoColor=white"/>
+<img alt="amazon aws" src ="https://img.shields.io/badge/amazon AWS-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 <img alt="aws Lambda" src ="https://img.shields.io/badge/aws Lambda-FF9900.svg?&style=for-the-badge&logo=aws Lambda&logoColor=white"/>
 <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
